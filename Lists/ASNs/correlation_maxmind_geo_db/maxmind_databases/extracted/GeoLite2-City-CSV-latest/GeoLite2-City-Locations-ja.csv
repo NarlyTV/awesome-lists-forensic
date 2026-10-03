@@ -326,6 +326,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 199987,ja,AF,アフリカ,KE,ケニア共和国,04,ブシア,,,,,Africa/Nairobi,0
 199989,ja,AF,アフリカ,KE,ケニア共和国,04,ブシア,,,,,Africa/Nairobi,0
 200067,ja,AF,アフリカ,KE,ケニア共和国,03,ブンゴマ,,,,,Africa/Nairobi,0
+200308,ja,AF,アフリカ,KE,ケニア共和国,02,ボメット,,,ボメット,,Africa/Nairobi,0
 200573,ja,AF,アフリカ,KE,ケニア共和国,01,バリンゴ,,,,,Africa/Nairobi,0
 200787,ja,AF,アフリカ,KE,ケニア共和国,22,マチャコス,,,,,Africa/Nairobi,0
 201521,ja,AF,アフリカ,RW,ルワンダ共和国,03,北部州,,,,,Africa/Kigali,0
@@ -1375,7 +1376,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 411735,ja,AS,アジア,OM,オマーン国,DA,ダーヒリーヤ行政区,,,,,Asia/Muscat,0
 411736,ja,AS,アジア,OM,オマーン国,BJ,南バーティナ地方,,,,,Asia/Muscat,0
 411740,ja,AS,アジア,OM,オマーン国,MA,マスカット特別行政区,,,,,Asia/Muscat,0
-411741,ja,AS,アジア,OM,オマーン国,MU,ムサンダム特別行政区,,,,,Asia/Muscat,0
 411849,ja,AS,アジア,OM,オマーン国,ZA,ザーヒラ行政区,,,,,Asia/Muscat,0
 412084,ja,AS,アジア,OM,オマーン国,BJ,南バーティナ地方,,,,,Asia/Muscat,0
 412800,ja,AS,アジア,KW,クウェート,MU,ムバーラク・アル・カービル,,,,,Asia/Kuwait,0
@@ -1421,7 +1421,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 454970,ja,EU,ヨーロッパ,LV,ラトビア共和国,097,,,,タルシ,,Europe/Riga,1
 455523,ja,EU,ヨーロッパ,LV,ラトビア共和国,002,アイズクラウクレ自治体,,,,,Europe/Riga,1
 455718,ja,EU,ヨーロッパ,LV,ラトビア共和国,091,シグルダ自治体,,,スィグルダ,,Europe/Riga,1
-455814,ja,EU,ヨーロッパ,LV,ラトビア共和国,087,サラスピルス,,,,,Europe/Riga,1
 455890,ja,EU,ヨーロッパ,LV,ラトビア共和国,088,,,,サルドゥス,,Europe/Riga,1
 455898,ja,EU,ヨーロッパ,LV,ラトビア共和国,087,サラスピルス,,,サラスピルス,,Europe/Riga,1
 456172,ja,EU,ヨーロッパ,LV,ラトビア共和国,RIX,リガ,,,リガ,,Europe/Riga,1
@@ -1454,7 +1453,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 460413,ja,EU,ヨーロッパ,LV,ラトビア共和国,DGV,ダウガフピルス,,,ダウガフピルス,,Europe/Riga,1
 460474,ja,EU,ヨーロッパ,LV,ラトビア共和国,047,クラスラヴァ自治体,,,,,Europe/Riga,1
 460570,ja,EU,ヨーロッパ,LV,ラトビア共和国,022,ツェーシス市,,,ツェーシス,,Europe/Riga,1
-460659,ja,EU,ヨーロッパ,LV,ラトビア共和国,011,アダジ,,,,,Europe/Riga,1
 460721,ja,EU,ヨーロッパ,LV,ラトビア共和国,RIX,リガ,,,,,Europe/Riga,1
 460885,ja,EU,ヨーロッパ,LV,ラトビア共和国,RIX,リガ,,,,,Europe/Riga,1
 461114,ja,EU,ヨーロッパ,LV,ラトビア共和国,016,バウスカ自治体,,,バウスカ,,Europe/Riga,1
@@ -2600,7 +2598,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 618261,ja,EU,ヨーロッパ,MD,モルドバ共和国,GL,グロデニ県,,,グロデニ,,Europe/Chisinau,0
 618329,ja,EU,ヨーロッパ,MD,モルドバ共和国,FL,フロレシュティ県,,,フロレシュティ,,Europe/Chisinau,0
 618344,ja,EU,ヨーロッパ,MD,モルドバ共和国,FA,ファレシュティ県,,,ファレシュティ,,Europe/Chisinau,0
-618356,ja,EU,ヨーロッパ,MD,モルドバ共和国,CU,キシナウ市,,,,,Europe/Chisinau,0
 618370,ja,EU,ヨーロッパ,MD,モルドバ共和国,DR,ドロキア,,,ドロキア,,Europe/Chisinau,0
 618372,ja,EU,ヨーロッパ,MD,モルドバ共和国,BR,ブリチェニー県,,,,,Europe/Chisinau,0
 618382,ja,EU,ヨーロッパ,MD,モルドバ共和国,DO,ドンドゥセニ県,,,ドンドゥシェニ,,Europe/Chisinau,0
@@ -2711,7 +2708,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 637219,ja,EU,ヨーロッパ,FI,フィンランド共和国,03,南ポフヤンマー県,,,セイナヨキ,,Europe/Helsinki,1
 637247,ja,EU,ヨーロッパ,FI,フィンランド共和国,08,中央フィンランド,,,,,Europe/Helsinki,1
 637292,ja,EU,ヨーロッパ,FI,フィンランド共和国,04,南サヴォ県,,,サヴォンリンナ,,Europe/Helsinki,1
-637936,ja,EU,ヨーロッパ,FI,フィンランド共和国,14,北ポフヤンマー県,,,,,Europe/Helsinki,1
 637948,ja,EU,ヨーロッパ,FI,フィンランド共和国,19,南西スオミ県,,,サロ,,Europe/Helsinki,1
 638691,ja,EU,ヨーロッパ,FI,フィンランド共和国,11,ピルカンマー県,,,,,Europe/Helsinki,1
 638936,ja,EU,ヨーロッパ,FI,フィンランド共和国,10,ラッピ県,,,ロヴァニエミ,,Europe/Helsinki,1
@@ -2719,7 +2715,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 639403,ja,EU,ヨーロッパ,FI,フィンランド共和国,08,中央フィンランド,,,,,Europe/Helsinki,1
 639406,ja,EU,ヨーロッパ,FI,フィンランド共和国,06,カンタ＝ハメ県,,,リーヒマキ,,Europe/Helsinki,1
 639534,ja,EU,ヨーロッパ,FI,フィンランド共和国,06,カンタ＝ハメ県,,,,,Europe/Helsinki,1
-639537,ja,EU,ヨーロッパ,FI,フィンランド共和国,15,北サヴォ県,,,,,Europe/Helsinki,1
 639595,ja,EU,ヨーロッパ,FI,フィンランド共和国,13,北カルヤラ県,,,,,Europe/Helsinki,1
 639734,ja,EU,ヨーロッパ,FI,フィンランド共和国,17,サタクンタ県,,,ラウマ,,Europe/Helsinki,1
 639888,ja,EU,ヨーロッパ,FI,フィンランド共和国,10,ラッピ県,,,,,Europe/Helsinki,1
@@ -4456,7 +4451,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 755675,ja,EU,ヨーロッパ,PL,ポーランド共和国,06,ルブリン県,,,,,Europe/Warsaw,1
 755692,ja,EU,ヨーロッパ,PL,ポーランド共和国,14,マゾフシェ県,,,,,Europe/Warsaw,1
 755755,ja,EU,ヨーロッパ,PL,ポーランド共和国,18,ポトカルパチェ県,,,,,Europe/Warsaw,1
-755859,ja,EU,ヨーロッパ,PL,ポーランド共和国,14,マゾフシェ県,,,,,Europe/Warsaw,1
+755860,ja,EU,ヨーロッパ,PL,ポーランド共和国,26,シフィェンティクシシュ県,,,,,Europe/Warsaw,1
 755861,ja,EU,ヨーロッパ,PL,ポーランド共和国,12,マウォポルスカ県,,,,,Europe/Warsaw,1
 755876,ja,EU,ヨーロッパ,PL,ポーランド共和国,06,ルブリン県,,,,,Europe/Warsaw,1
 755886,ja,EU,ヨーロッパ,PL,ポーランド共和国,14,マゾフシェ県,,,,,Europe/Warsaw,1
@@ -5159,6 +5154,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 814775,ja,EU,ヨーロッパ,RU,ロシア,KLU,カルーガ州,,,,,Europe/Moscow,0
 815258,ja,EU,ヨーロッパ,BY,ベラルーシ共和国,MA,モギリョフ,,,,,Europe/Minsk,0
 817698,ja,EU,ヨーロッパ,RU,ロシア,ORL,オリョール州,,,,,Europe/Moscow,0
+817994,ja,EU,ヨーロッパ,RU,ロシア,MOS,モスクワ州,,,,,Europe/Moscow,0
 818414,ja,EU,ヨーロッパ,RU,ロシア,KLU,カルーガ州,,,,,Europe/Moscow,0
 819077,ja,EU,ヨーロッパ,RU,ロシア,BRY,ブリャンスク州,,,,,Europe/Moscow,0
 819579,ja,EU,ヨーロッパ,RU,ロシア,BRY,ブリャンスク州,,,,,Europe/Moscow,0
@@ -5230,6 +5226,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 863891,ja,EU,ヨーロッパ,MK,北マケドニア,705,ランコヴツェ,,,,,Europe/Skopje,0
 863894,ja,EU,ヨーロッパ,MK,北マケドニア,811,,,,,,Europe/Skopje,0
 863896,ja,EU,ヨーロッパ,MK,北マケドニア,812,,,,,,Europe/Skopje,0
+863904,ja,EU,ヨーロッパ,MK,北マケドニア,817,,,,,,Europe/Skopje,0
 864389,ja,EU,ヨーロッパ,LT,リトアニア共和国,AL,アリートゥス郡,,,,,Europe/Vilnius,1
 864477,ja,EU,ヨーロッパ,LT,リトアニア共和国,KU,カウナス郡,,,,,Europe/Vilnius,1
 864480,ja,EU,ヨーロッパ,LT,リトアニア共和国,PN,パネヴェジース郡,,,,,Europe/Vilnius,1
@@ -5901,6 +5898,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1177073,ja,AS,アジア,PK,パキスタン・イスラム共和国,PB,パンジャーブ州,,,,,Asia/Karachi,0
 1177107,ja,AS,アジア,PK,パキスタン・イスラム共和国,KP,カイバル・パクトゥンクワ州,,,,,Asia/Karachi,0
 1177129,ja,AS,アジア,PK,パキスタン・イスラム共和国,PB,パンジャーブ州,,,,,Asia/Karachi,0
+1177169,ja,AS,アジア,PK,パキスタン・イスラム共和国,PB,パンジャーブ州,,,ハラッパー,,Asia/Karachi,0
 1177384,ja,AS,アジア,PK,パキスタン・イスラム共和国,PB,パンジャーブ州,,,,,Asia/Karachi,0
 1177654,ja,AS,アジア,PK,パキスタン・イスラム共和国,PB,パンジャーブ州,,,,,Asia/Karachi,0
 1177662,ja,AS,アジア,PK,パキスタン・イスラム共和国,PB,パンジャーブ州,,,,,Asia/Karachi,0
@@ -5974,6 +5972,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1191173,ja,AS,アジア,BD,バングラディッシュ人民共和国,C,ダッカ管区,18,,,,Asia/Dhaka,0
 1192091,ja,AS,アジア,BD,バングラディッシュ人民共和国,C,ダッカ管区,13,,,,Asia/Dhaka,0
 1192366,ja,AS,アジア,BD,バングラディッシュ人民共和国,E,ラジシャヒ管区,48,,,,Asia/Dhaka,0
+1194041,ja,AS,アジア,BD,バングラディッシュ人民共和国,E,ラジシャヒ管区,48,,,,Asia/Dhaka,0
 1194160,ja,AS,アジア,BD,バングラディッシュ人民共和国,B,チッタゴン管区,04,,,,Asia/Dhaka,0
 1194514,ja,AS,アジア,BD,バングラディッシュ人民共和国,D,クルナ管区,22,ジョソール県,,,Asia/Dhaka,0
 1196292,ja,AS,アジア,BD,バングラディッシュ人民共和国,B,チッタゴン管区,31,,,,Asia/Dhaka,0
@@ -6626,6 +6625,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1266960,ja,AS,アジア,IN,インド,PB,パンジャーブ州,,,カラ―ル,,Asia/Kolkata,0
 1266966,ja,AS,アジア,IN,インド,MH,マハーラーシュトラ州,,,,,Asia/Kolkata,0
 1266976,ja,AS,アジア,IN,インド,WB,西ベンガル州,,,,,Asia/Kolkata,0
+1267012,ja,AS,アジア,IN,インド,WB,西ベンガル州,,,,,Asia/Kolkata,0
 1267031,ja,AS,アジア,IN,インド,MP,マディヤ・プラデーシュ州,,,,,Asia/Kolkata,0
 1267052,ja,AS,アジア,IN,インド,MH,マハーラーシュトラ州,,,,,Asia/Kolkata,0
 1267056,ja,AS,アジア,IN,インド,OD,オディシャ州,,,,,Asia/Kolkata,0
@@ -6642,6 +6642,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1267385,ja,AS,アジア,IN,インド,TN,タミル・ナードゥ州,,,,,Asia/Kolkata,0
 1267390,ja,AS,アジア,IN,インド,LD,ラッカディブ,,,カバラティ,,Asia/Kolkata,0
 1267394,ja,AS,アジア,IN,インド,AP,アーンドラ・プラデーシュ州,,,,,Asia/Kolkata,0
+1267439,ja,AS,アジア,IN,インド,JH,ジャールカンド州,,,,,Asia/Kolkata,0
 1267480,ja,AS,アジア,IN,インド,BR,ビハール州,,,,,Asia/Kolkata,0
 1267495,ja,AS,アジア,IN,インド,GJ,グジャラート州,,,,,Asia/Kolkata,0
 1267529,ja,AS,アジア,IN,インド,MP,マディヤ・プラデーシュ州,,,,,Asia/Kolkata,0
@@ -6774,6 +6775,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1270444,ja,AS,アジア,IN,インド,TS,テランガーナ州,,,,,Asia/Kolkata,0
 1270454,ja,AS,アジア,IN,インド,HP,ヒマーチャル・プラデーシュ州,,,,,Asia/Kolkata,0
 1270455,ja,AS,アジア,IN,インド,UP,ウッタル・プラデーシュ州,,,,,Asia/Kolkata,0
+1270466,ja,AS,アジア,IN,インド,GJ,グジャラート州,,,,,Asia/Kolkata,0
 1270474,ja,AS,アジア,IN,インド,GJ,グジャラート州,,,,,Asia/Kolkata,0
 1270498,ja,AS,アジア,IN,インド,UK,ウッタラーカンド州,,,ハルドワニ,,Asia/Kolkata,0
 1270525,ja,AS,アジア,IN,インド,BR,ビハール州,,,,,Asia/Kolkata,0
@@ -7450,6 +7452,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1505539,ja,EU,ヨーロッパ,RU,ロシア,KEM,クズバス,,,,,Asia/Novokuznetsk,0
 1505933,ja,EU,ヨーロッパ,RU,ロシア,KYA,クラスノヤルスク地方,,,,,Asia/Krasnoyarsk,0
 1506073,ja,EU,ヨーロッパ,RU,ロシア,KEM,クズバス,,,,,Asia/Novokuznetsk,0
+1506217,ja,EU,ヨーロッパ,RU,ロシア,KEM,クズバス,,,,,Asia/Novokuznetsk,0
 1506254,ja,EU,ヨーロッパ,RU,ロシア,NVS,ノヴォシビルスク州,,,,,Asia/Novosibirsk,0
 1506260,ja,EU,ヨーロッパ,RU,ロシア,ALT,アルタイ地方,,,,,Asia/Barnaul,0
 1506271,ja,EU,ヨーロッパ,RU,ロシア,AL,アルタイ共和国,,,ゴルノ・アルタイスク,,Asia/Barnaul,0
@@ -8114,6 +8117,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1635283,ja,AS,アジア,ID,インドネシア共和国,LA,ランプン州,,,,,Asia/Jakarta,0
 1635342,ja,AS,アジア,ID,インドネシア共和国,JT,中央ジャワ州,,,,,Asia/Jakarta,0
 1635358,ja,AS,アジア,ID,インドネシア共和国,JT,中央ジャワ州,,,,,Asia/Jakarta,0
+1635542,ja,AS,アジア,ID,インドネシア共和国,LA,ランプン州,,,,,Asia/Jakarta,0
 1635815,ja,AS,アジア,ID,インドネシア共和国,NT,東ヌサトゥンガラ州,,,,,Asia/Makassar,0
 1635882,ja,AS,アジア,ID,インドネシア共和国,NB,西ヌサトゥンガラ州,,,マタラム,,Asia/Makassar,0
 1635968,ja,AS,アジア,ID,インドネシア共和国,NB,西ヌサトゥンガラ州,,,,,Asia/Makassar,0
@@ -8182,6 +8186,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1642467,ja,AS,アジア,ID,インドネシア共和国,BA,バリ島,,,,,Asia/Makassar,0
 1642548,ja,AS,アジア,ID,インドネシア共和国,JT,中央ジャワ州,,,,,Asia/Jakarta,0
 1642585,ja,AS,アジア,ID,インドネシア共和国,BA,バリ島,,,,,Asia/Makassar,0
+1642587,ja,AS,アジア,ID,インドネシア共和国,JI,東ジャワ州,,,,,Asia/Jakarta,0
 1642588,ja,AS,アジア,ID,インドネシア共和国,JI,東ジャワ州,,,,,Asia/Jakarta,0
 1642603,ja,AS,アジア,ID,インドネシア共和国,BB,バンカ・ブリトゥン諸島州,,,,,Asia/Jakarta,0
 1642655,ja,AS,アジア,ID,インドネシア共和国,PA,パプア州,,,,,Asia/Jayapura,0
@@ -8820,6 +8825,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1716081,ja,AS,アジア,PH,フィリピン共和国,03,中部ルソン地方,BUL,,,,Asia/Manila,0
 1716198,ja,AS,アジア,PH,フィリピン共和国,01,イロコス地方,PAN,,,,Asia/Manila,0
 1716287,ja,AS,アジア,PH,フィリピン共和国,05,ビコル地方,CAN,,,,Asia/Manila,0
+1716388,ja,AS,アジア,PH,フィリピン共和国,07,中部ヴィサヤ地方,CEB,,,,Asia/Manila,0
 1716573,ja,AS,アジア,PH,フィリピン共和国,06,西ヴィサヤ地方,ANT,,,,Asia/Manila,0
 1716618,ja,AS,アジア,PH,フィリピン共和国,40,カラバルソン地方,BTG,,,,Asia/Manila,0
 1716771,ja,AS,アジア,PH,フィリピン共和国,14,イスラム教徒ミンダナオ自治地域,,,コタバト,,Asia/Manila,0
@@ -8870,6 +8876,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1723510,ja,AS,アジア,PH,フィリピン共和国,14,イスラム教徒ミンダナオ自治地域,,,,,Asia/Manila,0
 1723893,ja,AS,アジア,PH,フィリピン共和国,08,東ヴィサヤ地方,EAS,東サマル州,,,Asia/Manila,0
 1724317,ja,AS,アジア,PH,フィリピン共和国,01,イロコス地方,PAN,,,,Asia/Manila,0
+1724395,ja,AS,アジア,PH,フィリピン共和国,07,中部ヴィサヤ地方,BOH,ボホール州,,,Asia/Manila,0
 1724435,ja,AS,アジア,PH,フィリピン共和国,07,中部ヴィサヤ地方,CEB,,,,Asia/Manila,0
 1724489,ja,AS,アジア,PH,フィリピン共和国,03,中部ルソン地方,BUL,,,,Asia/Manila,0
 1724767,ja,AS,アジア,PH,フィリピン共和国,13,カラガ地方,SUR,,,,Asia/Manila,0
@@ -11420,7 +11427,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2073140,ja,OC,オセアニア,AU,オーストラリア,WA,西オーストラリア州,,,,,Australia/Perth,0
 2073298,ja,OC,オセアニア,AU,オーストラリア,SA,南オーストラリア州,,,,,Australia/Adelaide,0
 2073361,ja,OC,オセアニア,AU,オーストラリア,SA,南オーストラリア州,,,,,Australia/Adelaide,0
-2073408,ja,OC,オセアニア,AU,オーストラリア,SA,南オーストラリア州,,,,,Australia/Adelaide,0
 2073422,ja,OC,オセアニア,AU,オーストラリア,SA,南オーストラリア州,,,,,Australia/Adelaide,0
 2073523,ja,OC,オセアニア,AU,オーストラリア,SA,南オーストラリア州,,,,,Australia/Adelaide,0
 2073528,ja,OC,オセアニア,AU,オーストラリア,SA,南オーストラリア州,,,,,Australia/Adelaide,0
@@ -13008,6 +13014,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2322288,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,YO,ヨベ州,,,,,Africa/Lagos,0
 2322733,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,LA,ラゴス州,,,,,Africa/Lagos,0
 2322911,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,SO,,,,ソコト,,Africa/Lagos,0
+2324433,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,RI,リバーズ州,,,,,Africa/Lagos,0
 2324774,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,RI,リバーズ州,,,ポートハーコート,,Africa/Lagos,0
 2325330,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,IM,イモ州,,,オウェリ,,Africa/Lagos,0
 2325457,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,OG,オグン州,,,,,Africa/Lagos,0
@@ -13029,7 +13036,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2331303,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,FC,連邦首都地区,,,,,Africa/Lagos,0
 2331447,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,BO,ボルノ州,,,マイドゥグリ,,Africa/Lagos,0
 2331921,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,DE,デルタ州,,,,,Africa/Lagos,0
-2332006,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,BA,バウチ州,,,,,Africa/Lagos,0
 2332453,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,LA,ラゴス州,,,,,Africa/Lagos,0
 2332459,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,LA,ラゴス州,,,ラゴス,,Africa/Lagos,0
 2334153,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,OG,オグン州,,,,,Africa/Lagos,0
@@ -18376,6 +18382,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2657613,ja,EU,ヨーロッパ,GB,英国,SCT,スコットランド,NLK,ノース・ラナークシャー,,,Europe/London,0
 2657614,ja,EU,ヨーロッパ,GB,英国,SCT,スコットランド,HLD,ハイランド,,,Europe/London,0
 2657623,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,SFT,,エインズデール,,Europe/London,0
+2657642,ja,EU,ヨーロッパ,GB,英国,NIR,北アイルランド,LBC,,,,Europe/London,0
 2657676,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,SRY,,,,Europe/London,0
 2657681,ja,EU,ヨーロッパ,GB,英国,SCT,スコットランド,WLN,ウェスト・ロージアン,,,Europe/London,0
 2657684,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,OXF,,,,Europe/London,0
@@ -18602,6 +18609,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2658479,ja,EU,ヨーロッパ,CH,スイス連邦,TG,トゥールガウ州,,,,,Europe/Zurich,0
 2658480,ja,EU,ヨーロッパ,CH,スイス連邦,ZH,チューリヒ州,,,,,Europe/Zurich,0
 2658483,ja,EU,ヨーロッパ,CH,スイス連邦,ZG,ツーク州,,,,,Europe/Zurich,0
+2658488,ja,EU,ヨーロッパ,CH,スイス連邦,SZ,シュヴィーツ州,,,,,Europe/Zurich,0
 2658489,ja,EU,ヨーロッパ,CH,スイス連邦,SH,シャフハウゼン州,,,,,Europe/Zurich,0
 2658490,ja,EU,ヨーロッパ,CH,スイス連邦,AG,アールガウ州,,,,,Europe/Zurich,0
 2658491,ja,EU,ヨーロッパ,CH,スイス連邦,AR,アッペンツェル・アウサーローデン準州,,,,,Europe/Zurich,0
@@ -18633,6 +18641,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2658577,ja,EU,ヨーロッパ,CH,スイス連邦,AG,アールガウ州,,,,,Europe/Zurich,0
 2658581,ja,EU,ヨーロッパ,CH,スイス連邦,VS,ヴァレー州,,,,,Europe/Zurich,0
 2658588,ja,EU,ヨーロッパ,CH,スイス連邦,GR,グラウビュンデン州,,,,,Europe/Zurich,0
+2658589,ja,EU,ヨーロッパ,CH,スイス連邦,GR,グラウビュンデン州,,,,,Europe/Zurich,0
 2658592,ja,EU,ヨーロッパ,CH,スイス連邦,UR,ウーリ州,,,,,Europe/Zurich,0
 2658597,ja,EU,ヨーロッパ,CH,スイス連邦,BE,ベルン州,,,,,Europe/Zurich,0
 2658600,ja,EU,ヨーロッパ,CH,スイス連邦,BE,ベルン州,,,,,Europe/Zurich,0
@@ -20313,6 +20322,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2733488,ja,EU,ヨーロッパ,PT,ポルトガル共和国,04,ブラガンサ県,,,,,Europe/Lisbon,1
 2733533,ja,EU,ヨーロッパ,PT,ポルトガル共和国,18,ヴィゼウ県,,,,,Europe/Lisbon,1
 2733592,ja,EU,ヨーロッパ,PT,ポルトガル共和国,06,コインブラ県,,,,,Europe/Lisbon,1
+2733660,ja,EU,ヨーロッパ,PT,ポルトガル共和国,06,コインブラ県,,,,,Europe/Lisbon,1
 2733669,ja,EU,ヨーロッパ,PT,ポルトガル共和国,18,ヴィゼウ県,,,,,Europe/Lisbon,1
 2733709,ja,EU,ヨーロッパ,PT,ポルトガル共和国,03,ブラガ県,,,,,Europe/Lisbon,1
 2733720,ja,EU,ヨーロッパ,PT,ポルトガル共和国,06,コインブラ県,,,,,Europe/Lisbon,1
@@ -22313,7 +22323,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2770711,ja,EU,ヨーロッパ,AT,オーストリア共和国,3,ニーダーエステライヒ州,,,,,Europe/Vienna,1
 2770722,ja,EU,ヨーロッパ,AT,オーストリア共和国,4,オーバーエスターライヒ州,,,,,Europe/Vienna,1
 2770723,ja,EU,ヨーロッパ,AT,オーストリア共和国,4,オーバーエスターライヒ州,,,,,Europe/Vienna,1
-2770727,ja,EU,ヨーロッパ,AT,オーストリア共和国,5,ザルツブルク州,,,,,Europe/Vienna,1
 2770730,ja,EU,ヨーロッパ,AT,オーストリア共和国,3,ニーダーエステライヒ州,,,,,Europe/Vienna,1
 2770750,ja,EU,ヨーロッパ,AT,オーストリア共和国,4,オーバーエスターライヒ州,,,,,Europe/Vienna,1
 2770778,ja,EU,ヨーロッパ,AT,オーストリア共和国,3,ニーダーエステライヒ州,,,,,Europe/Vienna,1
@@ -23204,6 +23213,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2798385,ja,EU,ヨーロッパ,BE,ベルギー王国,WAL,ワロン地域,WHT,エノー州,,,Europe/Brussels,1
 2798470,ja,EU,ヨーロッパ,BE,ベルギー王国,WAL,ワロン地域,WHT,エノー州,,,Europe/Brussels,1
 2798501,ja,EU,ヨーロッパ,BE,ベルギー王国,WAL,ワロン地域,WNA,,,,Europe/Brussels,1
+2798512,ja,EU,ヨーロッパ,BE,ベルギー王国,WAL,ワロン地域,WLG,,,,Europe/Brussels,1
 2798551,ja,EU,ヨーロッパ,BE,ベルギー王国,VLG,フランデレン地域,VOV,,,,Europe/Brussels,1
 2798554,ja,EU,ヨーロッパ,BE,ベルギー王国,BRU,ブリュッセル,,,エヴェレ,,Europe/Brussels,1
 2798573,ja,EU,ヨーロッパ,BE,ベルギー王国,WAL,ワロン地域,WLG,,オイペン,,Europe/Brussels,1
@@ -25003,6 +25013,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2871130,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,SH,シュレースヴィヒ＝ホルシュタイン州,,,,,Europe/Berlin,1
 2871173,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,BW,バーデン＝ヴュルテンベルク州,,,,,Europe/Berlin,1
 2871198,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,BY,バイエルン,,,,,Europe/Berlin,1
+2871225,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,RP,ラインラント＝プファルツ州,,,,,Europe/Berlin,1
 2871279,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,BB,ブランデンブルク州,,,,,Europe/Berlin,1
 2871284,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,HE,ヘッセン州,,,ミヒェルシュタット,,Europe/Berlin,1
 2871367,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,BY,バイエルン,,,,,Europe/Berlin,1
@@ -25471,9 +25482,11 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2891831,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,RP,ラインラント＝プファルツ州,,,,,Europe/Berlin,1
 2891832,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,HE,ヘッセン州,,,,,Europe/Berlin,1
 2891834,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,BY,バイエルン,,,,,Europe/Berlin,1
+2891899,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,RP,ラインラント＝プファルツ州,,,,,Europe/Berlin,1
 2891951,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,BW,バーデン＝ヴュルテンベルク州,,,ケール,,Europe/Berlin,1
 2892052,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,TH,チューリンゲン州,,,,,Europe/Berlin,1
 2892080,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,BY,バイエルン,,,カウフボイレン,,Europe/Berlin,1
+2892101,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,RP,ラインラント＝プファルツ州,,,カウプ,,Europe/Berlin,1
 2892448,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,SH,シュレースヴィヒ＝ホルシュタイン州,,,,,Europe/Berlin,1
 2892485,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,RP,ラインラント＝プファルツ州,,,カステラウン,,Europe/Berlin,1
 2892488,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,HE,ヘッセン州,,,,,Europe/Berlin,1
@@ -26421,6 +26434,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2935725,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,RP,ラインラント＝プファルツ州,,,,,Europe/Berlin,1
 2935801,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,BY,バイエルン,,,,,Europe/Berlin,1
 2935825,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,NW,ノルトライン＝ヴェストファーレン州,,,,,Europe/Berlin,1
+2936093,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,HE,ヘッセン州,,,,,Europe/Berlin,1
 2936103,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,BY,バイエルン,,,,,Europe/Berlin,1
 2936153,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,NW,ノルトライン＝ヴェストファーレン州,,,デーレントルプ,,Europe/Berlin,1
 2936186,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,BW,バーデン＝ヴュルテンベルク州,,,,,Europe/Berlin,1
@@ -35929,7 +35943,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3070720,ja,EU,ヨーロッパ,CZ,チェコ共和国,64,南モラヴィア州,644,ブジェツラフ郡,ミクロフ,,Europe/Prague,1
 3070724,ja,EU,ヨーロッパ,CZ,チェコ共和国,64,南モラヴィア州,645,,,,Europe/Prague,1
 3070725,ja,EU,ヨーロッパ,CZ,チェコ共和国,42,ウスチー・ナド・ラベム地域,421,,,,Europe/Prague,1
-3070774,ja,EU,ヨーロッパ,CZ,チェコ共和国,52,フラデッツ・クラロベー地域,523,,,,Europe/Prague,1
 3070814,ja,EU,ヨーロッパ,CZ,チェコ共和国,32,プルゼニ地域,325,,,,Europe/Prague,1
 3070819,ja,EU,ヨーロッパ,CZ,チェコ共和国,80,モラヴィア・シレジア地域,801,,,,Europe/Prague,1
 3070822,ja,EU,ヨーロッパ,CZ,チェコ共和国,20,中央ボヘミア州,208,,,,Europe/Prague,1
@@ -36941,6 +36954,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3097080,ja,EU,ヨーロッパ,PL,ポーランド共和国,10,ウッチ県,,,,,Europe/Warsaw,1
 3097089,ja,EU,ヨーロッパ,PL,ポーランド共和国,16,オポーレ県,,,,,Europe/Warsaw,1
 3097220,ja,EU,ヨーロッパ,PL,ポーランド共和国,02,ドルヌィ・シロンスク県,,,,,Europe/Warsaw,1
+3097235,ja,EU,ヨーロッパ,PL,ポーランド共和国,16,オポーレ県,,,,,Europe/Warsaw,1
 3097257,ja,EU,ヨーロッパ,PL,ポーランド共和国,02,ドルヌィ・シロンスク県,,,,,Europe/Warsaw,1
 3097327,ja,EU,ヨーロッパ,PL,ポーランド共和国,24,シロンスク県,,,,,Europe/Warsaw,1
 3097333,ja,EU,ヨーロッパ,PL,ポーランド共和国,24,シロンスク県,,,ヤヴォジュノ,,Europe/Warsaw,1
@@ -42795,6 +42809,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3399336,ja,SA,南アメリカ,BR,ブラジル連邦共和国,PI,ピアウイ州,,,,,America/Fortaleza,0
 3399380,ja,SA,南アメリカ,BR,ブラジル連邦共和国,CE,セアラ州,,,,,America/Fortaleza,0
 3399388,ja,SA,南アメリカ,BR,ブラジル連邦共和国,MA,マラニョン州,,,,,America/Fortaleza,0
+3399408,ja,SA,南アメリカ,BR,ブラジル連邦共和国,PA,パラー州,,,,,America/Santarem,0
 3399415,ja,SA,南アメリカ,BR,ブラジル連邦共和国,CE,セアラ州,,,フォルタレザ,,America/Fortaleza,0
 3399445,ja,SA,南アメリカ,BR,ブラジル連邦共和国,CE,セアラ州,,,,,America/Fortaleza,0
 3399506,ja,SA,南アメリカ,BR,ブラジル連邦共和国,PI,ピアウイ州,,,,,America/Fortaleza,0
@@ -43554,7 +43569,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3439184,ja,SA,南アメリカ,PY,パラグアイ共和国,7,イタプア県,,,,,America/Asuncion,0
 3439208,ja,SA,南アメリカ,PY,パラグアイ共和国,2,サン・ペドロ県,,,,,America/Asuncion,0
 3439214,ja,SA,南アメリカ,PY,パラグアイ共和国,11,セントラル県,,,カピアタ,,America/Asuncion,0
-3439312,ja,SA,南アメリカ,PY,パラグアイ共和国,5,,,,,,America/Asuncion,0
 3439317,ja,SA,南アメリカ,PY,パラグアイ共和国,5,,,,,,America/Asuncion,0
 3439320,ja,SA,南アメリカ,PY,パラグアイ共和国,3,コルディリェラ県,,,カアクペ,,America/Asuncion,0
 3439353,ja,SA,南アメリカ,PY,パラグアイ共和国,13,アマンバイ県,,,,,America/Asuncion,0
@@ -44811,7 +44825,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3458930,ja,SA,南アメリカ,BR,ブラジル連邦共和国,SC,サンタカタリーナ州,,,,,America/Sao_Paulo,0
 3458942,ja,SA,南アメリカ,BR,ブラジル連邦共和国,BA,バイーア州,,,,,America/Bahia,0
 3459035,ja,SA,南アメリカ,BR,ブラジル連邦共和国,RS,リオグランデドスール州,,,,,America/Sao_Paulo,0
-3459088,ja,SA,南アメリカ,BR,ブラジル連邦共和国,BA,バイーア州,,,,,America/Bahia,0
+3459084,ja,SA,南アメリカ,BR,ブラジル連邦共和国,BA,バイーア州,,,,,America/Bahia,0
 3459092,ja,SA,南アメリカ,BR,ブラジル連邦共和国,MS,マットグロッソ・ド・スル州,,,,,America/Campo_Grande,0
 3459094,ja,SA,南アメリカ,BR,ブラジル連邦共和国,SC,サンタカタリーナ州,,,,,America/Sao_Paulo,0
 3459111,ja,SA,南アメリカ,BR,ブラジル連邦共和国,SP,サンパウロ州,,,,,America/Sao_Paulo,0
@@ -46127,6 +46141,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3495857,ja,NA,北アメリカ,DO,ドミニカ共和国,03,バオルコ州,,,ネイバ,,America/Santo_Domingo,0
 3496021,ja,NA,北アメリカ,DO,ドミニカ共和国,14,,,,ナグア,,America/Santo_Domingo,0
 3496024,ja,NA,北アメリカ,DO,ドミニカ共和国,01,ドミニカ共和国国家地区,,,,,America/Santo_Domingo,0
+3496132,ja,NA,北アメリカ,DO,ドミニカ共和国,29,モンテ・プラタ州,,,,,America/Santo_Domingo,0
 3496200,ja,NA,北アメリカ,DO,ドミニカ共和国,15,モンテ・クリスティ州,,,,,America/Santo_Domingo,0
 3496284,ja,NA,北アメリカ,DO,ドミニカ共和国,26,,,,,,America/Santo_Domingo,0
 3496331,ja,NA,北アメリカ,DO,ドミニカ共和国,09,エスパイジャト州,,,モカ,,America/Santo_Domingo,0
@@ -46311,7 +46326,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3516458,ja,NA,北アメリカ,MX,メキシコ合衆国,TAB,タバスコ州,,,,,America/Merida,0
 3516485,ja,NA,北アメリカ,MX,メキシコ合衆国,YUC,ユカタン州,,,,,America/Merida,0
 3516535,ja,NA,北アメリカ,MX,メキシコ合衆国,PUE,プエブラ州,,,,,America/Mexico_City,0
-3516563,ja,NA,北アメリカ,MX,メキシコ合衆国,VER,ベラクルス州,,,,,America/Mexico_City,0
 3516617,ja,NA,北アメリカ,MX,メキシコ合衆国,VER,ベラクルス州,,,,,America/Mexico_City,0
 3516683,ja,NA,北アメリカ,MX,メキシコ合衆国,YUC,ユカタン州,,,,,America/Merida,0
 3516837,ja,NA,北アメリカ,MX,メキシコ合衆国,OAX,オアハカ州,,,,,America/Mexico_City,0
@@ -46607,7 +46621,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3531798,ja,NA,北アメリカ,MX,メキシコ合衆国,MEX,メヒコ州,,,,,America/Mexico_City,0
 3531862,ja,NA,北アメリカ,MX,メキシコ合衆国,NLE,ヌエボ・レオン州,,,,,America/Monterrey,0
 3531875,ja,NA,北アメリカ,MX,メキシコ合衆国,OAX,オアハカ州,,,,,America/Mexico_City,0
-3531904,ja,NA,北アメリカ,MX,メキシコ合衆国,CHP,チアパス州,,,,,America/Mexico_City,0
 3531972,ja,NA,北アメリカ,MX,メキシコ合衆国,GRO,ゲレーロ州,,,,,America/Mexico_City,0
 3532193,ja,NA,北アメリカ,MX,メキシコ合衆国,VER,ベラクルス州,,,,,America/Mexico_City,0
 3532254,ja,NA,北アメリカ,MX,メキシコ合衆国,CHP,チアパス州,,,,,America/Merida,0
@@ -47063,6 +47076,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3608932,ja,NA,北アメリカ,HN,ホンジュラス共和国,,,,,,,America/Tegucigalpa,0
 3609586,ja,NA,北アメリカ,HN,ホンジュラス共和国,LE,レンピーラ県,,,,,America/Tegucigalpa,0
 3609672,ja,NA,北アメリカ,HN,ホンジュラス共和国,FM,フランシスコ・モラサン県,,,,,America/Tegucigalpa,0
+3610092,ja,NA,北アメリカ,HN,ホンジュラス共和国,FM,フランシスコ・モラサン県,,,,,America/Tegucigalpa,0
 3610318,ja,NA,北アメリカ,HN,ホンジュラス共和国,CM,コマヤグア県,,,,,America/Tegucigalpa,0
 3610613,ja,NA,北アメリカ,HN,ホンジュラス共和国,YO,ヨロ県,,,,,America/Tegucigalpa,0
 3611150,ja,NA,北アメリカ,HN,ホンジュラス共和国,YO,ヨロ県,,,,,America/Tegucigalpa,0
@@ -47283,6 +47297,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3633622,ja,SA,南アメリカ,VE,ベネズエラ共和国,M,ミランダ州,,,ロス・テケス,,America/Caracas,0
 3634116,ja,SA,南アメリカ,VE,ベネズエラ共和国,G,カラボボ州,,,,,America/Caracas,0
 3634922,ja,SA,南アメリカ,VE,ベネズエラ共和国,D,アラグア州,,,,,America/Caracas,0
+3634989,ja,SA,南アメリカ,VE,ベネズエラ共和国,A,首都地区,,,,,America/Caracas,0
 3635868,ja,SA,南アメリカ,VE,ベネズエラ共和国,V,ズーリア州,,,,,America/Caracas,0
 3636539,ja,SA,南アメリカ,VE,ベネズエラ共和国,K,ラーラ州,,,,,America/Caracas,0
 3637721,ja,SA,南アメリカ,VE,ベネズエラ共和国,X,バルガス州,,,ラ・グアイラ,,America/Caracas,0
@@ -47330,6 +47345,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3645532,ja,SA,南アメリカ,VE,ベネズエラ共和国,F,ボリバル州,,,シウダ・ボリバル,,America/Caracas,0
 3645671,ja,SA,南アメリカ,VE,ベネズエラ共和国,U,ヤラクイ州,,,,,America/Caracas,0
 3645854,ja,SA,南アメリカ,VE,ベネズエラ共和国,M,ミランダ州,,,,,America/Caracas,0
+3646062,ja,SA,南アメリカ,VE,ベネズエラ共和国,G,カラボボ州,,,,,America/Caracas,0
 3646175,ja,SA,南アメリカ,VE,ベネズエラ共和国,M,ミランダ州,,,,,America/Caracas,0
 3646190,ja,SA,南アメリカ,VE,ベネズエラ共和国,X,バルガス州,,,,,America/Caracas,0
 3646191,ja,SA,南アメリカ,VE,ベネズエラ共和国,A,首都地区,,,,,America/Caracas,0
@@ -47340,6 +47356,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3646581,ja,SA,南アメリカ,VE,ベネズエラ共和国,R,スクレ州,,,,,America/Caracas,0
 3646738,ja,SA,南アメリカ,VE,ベネズエラ共和国,A,首都地区,,,カラカス,,America/Caracas,0
 3646751,ja,SA,南アメリカ,VE,ベネズエラ共和国,G,カラボボ州,,,,,America/Caracas,0
+3646869,ja,SA,南アメリカ,VE,ベネズエラ共和国,B,アンソアテギ州,,,,,America/Caracas,0
 3646939,ja,SA,南アメリカ,VE,ベネズエラ共和国,Y,デルタアマクロ州,,,,,America/Caracas,0
 3647206,ja,SA,南アメリカ,VE,ベネズエラ共和国,G,カラボボ州,,,,,America/Caracas,0
 3647324,ja,SA,南アメリカ,VE,ベネズエラ共和国,H,コヘデス州,,,,,America/Caracas,0
@@ -47355,6 +47372,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3648290,ja,SA,南アメリカ,VE,ベネズエラ共和国,T,トルヒーヨ州,,,,,America/Caracas,0
 3648386,ja,SA,南アメリカ,VE,ベネズエラ共和国,G,カラボボ州,,,,,America/Caracas,0
 3648522,ja,SA,南アメリカ,VE,ベネズエラ共和国,K,ラーラ州,,,バルキシメト,,America/Caracas,0
+3648532,ja,SA,南アメリカ,VE,ベネズエラ共和国,M,ミランダ州,,,,,America/Caracas,0
 3648544,ja,SA,南アメリカ,VE,ベネズエラ共和国,E,バリナス州,,,,,America/Caracas,0
 3648546,ja,SA,南アメリカ,VE,ベネズエラ共和国,E,バリナス州,,,バリナ,,America/Caracas,0
 3648559,ja,SA,南アメリカ,VE,ベネズエラ共和国,B,アンソアテギ州,,,バルセロナ,,America/Caracas,0
@@ -47767,7 +47785,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3673826,ja,SA,南アメリカ,CO,コロンビア共和国,CUN,クンディナマルカ県,,,,,America/Bogota,0
 3673899,ja,SA,南アメリカ,CO,コロンビア共和国,HUI,ウイラ県,,,ネイバ,,America/Bogota,0
 3673902,ja,SA,南アメリカ,CO,コロンビア共和国,CAL,カルダス県,,,,,America/Bogota,0
-3673974,ja,SA,南アメリカ,CO,コロンビア共和国,ANT,アンティオキア県,,,,,America/Bogota,0
 3674012,ja,SA,南アメリカ,CO,コロンビア共和国,HUI,ウイラ県,,,,,America/Bogota,0
 3674292,ja,SA,南アメリカ,CO,コロンビア共和国,CUN,クンディナマルカ県,,,,,America/Bogota,0
 3674453,ja,SA,南アメリカ,CO,コロンビア共和国,COR,,,,モンテリア,,America/Bogota,0
@@ -47839,7 +47856,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3681429,ja,SA,南アメリカ,CO,コロンビア共和国,ANT,アンティオキア県,,,,,America/Bogota,0
 3681702,ja,SA,南アメリカ,CO,コロンビア共和国,CUN,クンディナマルカ県,,,,,America/Bogota,0
 3681733,ja,SA,南アメリカ,CO,コロンビア共和国,HUI,ウイラ県,,,,,America/Bogota,0
-3681756,ja,SA,南アメリカ,CO,コロンビア共和国,NAR,ナリーニョ県,,,,,America/Bogota,0
 3681769,ja,SA,南アメリカ,CO,コロンビア共和国,CAU,カウカ県,,,,,America/Bogota,0
 3681797,ja,SA,南アメリカ,CO,コロンビア共和国,VAC,バジェ・デル・カウカ県,,,,,America/Bogota,0
 3681952,ja,SA,南アメリカ,CO,コロンビア共和国,ANT,アンティオキア県,,,,,America/Bogota,0
@@ -47906,6 +47922,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3685733,ja,SA,南アメリカ,CO,コロンビア共和国,CUN,クンディナマルカ県,,,,,America/Bogota,0
 3685823,ja,SA,南アメリカ,CO,コロンビア共和国,SUC,スクレ県,,,,,America/Bogota,0
 3685871,ja,SA,南アメリカ,CO,コロンビア共和国,CAU,カウカ県,,,,,America/Bogota,0
+3685949,ja,SA,南アメリカ,CO,コロンビア共和国,ANT,アンティオキア県,,,,,America/Bogota,0
 3685961,ja,SA,南アメリカ,CO,コロンビア共和国,SAN,サンタンデール県,,,,,America/Bogota,0
 3685984,ja,SA,南アメリカ,CO,コロンビア共和国,NAR,ナリーニョ県,,,,,America/Bogota,0
 3686110,ja,SA,南アメリカ,CO,コロンビア共和国,,,,,,,America/Bogota,0
@@ -47946,7 +47963,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3688111,ja,SA,南アメリカ,CO,コロンビア共和国,SAN,サンタンデール県,,,,,America/Bogota,0
 3688254,ja,SA,南アメリカ,CO,コロンビア共和国,VAC,バジェ・デル・カウカ県,,,,,America/Bogota,0
 3688256,ja,SA,南アメリカ,CO,コロンビア共和国,VAC,バジェ・デル・カウカ県,,,,,America/Bogota,0
-3688308,ja,SA,南アメリカ,CO,コロンビア共和国,ANT,アンティオキア県,,,,,America/Bogota,0
 3688357,ja,SA,南アメリカ,CO,コロンビア共和国,CAU,カウカ県,,,,,America/Bogota,0
 3688451,ja,SA,南アメリカ,CO,コロンビア共和国,VAC,バジェ・デル・カウカ県,,,,,America/Bogota,0
 3688465,ja,SA,南アメリカ,CO,コロンビア共和国,SAN,サンタンデール県,,,ブカラマンガ,,America/Bogota,0
@@ -47994,7 +48010,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3690019,ja,SA,南アメリカ,CO,コロンビア共和国,ANT,アンティオキア県,,,,,America/Bogota,0
 3690237,ja,SA,南アメリカ,CO,コロンビア共和国,VAC,バジェ・デル・カウカ県,,,,,America/Bogota,0
 3690250,ja,SA,南アメリカ,CO,コロンビア共和国,LAG,ラ・グアヒーラ県,,,,,America/Bogota,0
-3690287,ja,SA,南アメリカ,CO,コロンビア共和国,HUI,ウイラ県,,,,,America/Bogota,0
 3690316,ja,SA,南アメリカ,CO,コロンビア共和国,CAS,カサナレ県,,,,,America/Bogota,0
 3690429,ja,SA,南アメリカ,CO,コロンビア共和国,CUN,クンディナマルカ県,,,,,America/Bogota,0
 3690465,ja,SA,南アメリカ,CO,コロンビア共和国,CES,セサール県,,,,,America/Bogota,0
@@ -48178,7 +48193,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3798450,ja,SA,南アメリカ,VE,ベネズエラ共和国,P,ポルトゥゲサ州,,,,,America/Caracas,0
 3799319,ja,SA,南アメリカ,VE,ベネズエラ共和国,H,コヘデス州,,,,,America/Caracas,0
 3800832,ja,NA,北アメリカ,MX,メキシコ合衆国,OAX,オアハカ州,,,,,America/Mexico_City,0
-3801225,ja,NA,北アメリカ,MX,メキシコ合衆国,VER,ベラクルス州,,,,,America/Mexico_City,0
 3801595,ja,NA,北アメリカ,MX,メキシコ合衆国,OAX,オアハカ州,,,,,America/Mexico_City,0
 3801596,ja,NA,北アメリカ,MX,メキシコ合衆国,OAX,オアハカ州,,,,,America/Mexico_City,0
 3801609,ja,NA,北アメリカ,MX,メキシコ合衆国,OAX,オアハカ州,,,,,America/Mexico_City,0
@@ -48244,6 +48258,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3830173,ja,SA,南アメリカ,CO,コロンビア共和国,SAN,サンタンデール県,,,,,America/Bogota,0
 3830305,ja,SA,南アメリカ,EC,エクアドル共和国,U,スクンビオス県,,,,,America/Guayaquil,0
 3830306,ja,SA,南アメリカ,EC,エクアドル共和国,D,オレリャーナ県,,,,,America/Guayaquil,0
+3830309,ja,SA,南アメリカ,VE,ベネズエラ共和国,X,バルガス州,,,,,America/Caracas,0
 3831208,ja,NA,北アメリカ,GL,グリーンランド,AV,アヴァンナータ,,,カーナーク,,America/Thule,0
 3832090,ja,SA,南アメリカ,AR,アルゼンチン共和国,S,サンタフェ州,,,,,America/Argentina/Cordoba,0
 3832098,ja,SA,南アメリカ,AR,アルゼンチン共和国,S,サンタフェ州,,,,,America/Argentina/Cordoba,0
@@ -49130,7 +49145,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3900138,ja,SA,南アメリカ,CL,チリ共和国,VS,バルパライソ,,,アルガロボ,,America/Santiago,0
 3900190,ja,SA,南アメリカ,CL,チリ共和国,LL,ロス・ラゴス州,,,,,America/Santiago,0
 3900333,ja,SA,南アメリカ,CL,チリ共和国,AI,アイセン,,,,,America/Coyhaique,0
-3901301,ja,SA,南アメリカ,BO,ボリビア共和国,S,サンタクルス県,,,,,America/La_Paz,0
 3902377,ja,SA,南アメリカ,BO,ボリビア共和国,B,ベニ県,,,トリニダ,,America/La_Paz,0
 3903320,ja,SA,南アメリカ,BO,ボリビア共和国,T,タリハ県,,,タリハ,,America/La_Paz,0
 3903987,ja,SA,南アメリカ,BO,ボリビア共和国,H,チュキサカ県,,,スクレ,,America/La_Paz,0
@@ -50158,6 +50172,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4115181,ja,NA,北アメリカ,US,アメリカ,AR,アーカンソー州,,,,612,America/Chicago,0
 4115281,ja,NA,北アメリカ,US,アメリカ,AR,アーカンソー州,,,,612,America/Chicago,0
 4115334,ja,NA,北アメリカ,US,アメリカ,AR,アーカンソー州,,,,693,America/Chicago,0
+4115352,ja,NA,北アメリカ,US,アメリカ,AR,アーカンソー州,,,,640,America/Chicago,0
 4115412,ja,NA,北アメリカ,US,アメリカ,AR,アーカンソー州,,,,693,America/Chicago,0
 4115429,ja,NA,北アメリカ,US,アメリカ,AR,アーカンソー州,,,,693,America/Chicago,0
 4115450,ja,NA,北アメリカ,US,アメリカ,AR,アーカンソー州,,,,693,America/Chicago,0
@@ -53821,7 +53836,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4478056,ja,NA,北アメリカ,US,アメリカ,NC,ノースカロライナ州,,,,567,America/New_York,0
 4478090,ja,NA,北アメリカ,US,アメリカ,NC,ノースカロライナ州,,,,567,America/New_York,0
 4478116,ja,NA,北アメリカ,US,アメリカ,NC,ノースカロライナ州,,,,517,America/New_York,0
-4478192,ja,NA,北アメリカ,US,アメリカ,NC,ノースカロライナ州,,,,,America/New_York,0
 4478334,ja,NA,北アメリカ,US,アメリカ,NC,ノースカロライナ州,,,マシューズ,517,America/New_York,0
 4478372,ja,NA,北アメリカ,US,アメリカ,NC,ノースカロライナ州,,,,570,America/New_York,0
 4478408,ja,NA,北アメリカ,US,アメリカ,NC,ノースカロライナ州,,,,518,America/New_York,0
@@ -54744,6 +54758,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4559730,ja,NA,北アメリカ,US,アメリカ,PA,ペンシルベニア州,,,,511,America/New_York,0
 4559761,ja,NA,北アメリカ,US,アメリカ,PA,ペンシルベニア州,,,,508,America/New_York,0
 4559812,ja,NA,北アメリカ,US,アメリカ,PA,ペンシルベニア州,,,,508,America/New_York,0
+4559933,ja,NA,北アメリカ,US,アメリカ,PA,ペンシルベニア州,,,ニードモア,511,America/New_York,0
 4559967,ja,NA,北アメリカ,US,アメリカ,PA,ペンシルベニア州,,,,566,America/New_York,0
 4559983,ja,NA,北アメリカ,US,アメリカ,PA,ペンシルベニア州,,,,566,America/New_York,0
 4559986,ja,NA,北アメリカ,US,アメリカ,PA,ペンシルベニア州,,,ニュープロビデンス,566,America/New_York,0
@@ -61420,6 +61435,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5112391,ja,NA,北アメリカ,US,アメリカ,NY,ニューヨーク州,,,,565,America/New_York,0
 5112470,ja,NA,北アメリカ,US,アメリカ,NY,ニューヨーク州,,,,501,America/New_York,0
 5112479,ja,NA,北アメリカ,US,アメリカ,NY,ニューヨーク州,,,,523,America/New_York,0
+5112559,ja,NA,北アメリカ,US,アメリカ,NY,ニューヨーク州,,,,555,America/New_York,0
 5112703,ja,NA,北アメリカ,US,アメリカ,NY,ニューヨーク州,,,,538,America/New_York,0
 5112710,ja,NA,北アメリカ,US,アメリカ,NY,ニューヨーク州,,,,555,America/New_York,0
 5112729,ja,NA,北アメリカ,US,アメリカ,NY,ニューヨーク州,,,,555,America/New_York,0
@@ -62128,6 +62144,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5143116,ja,NA,北アメリカ,US,アメリカ,NY,ニューヨーク州,,,,501,America/New_York,0
 5143156,ja,NA,北アメリカ,US,アメリカ,NY,ニューヨーク州,,,,502,America/New_York,0
 5143174,ja,NA,北アメリカ,US,アメリカ,NY,ニューヨーク州,,,,538,America/New_York,0
+5143186,ja,NA,北アメリカ,US,アメリカ,NY,ニューヨーク州,,,,555,America/New_York,0
 5143198,ja,NA,北アメリカ,US,アメリカ,NY,ニューヨーク州,,,,501,America/New_York,0
 5143211,ja,NA,北アメリカ,US,アメリカ,NY,ニューヨーク州,,,,501,America/New_York,0
 5143279,ja,NA,北アメリカ,US,アメリカ,NY,ニューヨーク州,,,,532,America/New_York,0
@@ -63716,6 +63733,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5240484,ja,NA,北アメリカ,US,アメリカ,VT,バーモント州,,,,532,America/New_York,0
 5240509,ja,NA,北アメリカ,US,アメリカ,VT,バーモント州,,,ラトランド,523,America/New_York,0
 5240569,ja,NA,北アメリカ,US,アメリカ,VT,バーモント州,,,,523,America/New_York,0
+5240571,ja,NA,北アメリカ,US,アメリカ,VT,バーモント州,,,,523,America/New_York,0
 5240656,ja,NA,北アメリカ,US,アメリカ,VT,バーモント州,,,,523,America/New_York,0
 5240843,ja,NA,北アメリカ,US,アメリカ,VT,バーモント州,,,,506,America/New_York,0
 5241006,ja,NA,北アメリカ,US,アメリカ,VT,バーモント州,,,,523,America/New_York,0
@@ -65725,6 +65743,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5515591,ja,NA,北アメリカ,US,アメリカ,OK,オクラホマ州,,,,634,America/Chicago,0
 5515734,ja,NA,北アメリカ,US,アメリカ,OK,オクラホマ州,,,,634,America/Chicago,0
 5515743,ja,NA,北アメリカ,US,アメリカ,OK,オクラホマ州,,,,634,America/Chicago,0
+5515773,ja,NA,北アメリカ,US,アメリカ,OK,オクラホマ州,,,,634,America/Chicago,0
 5516008,ja,NA,北アメリカ,US,アメリカ,TX,テキサス州,,,,651,America/Chicago,0
 5516071,ja,NA,北アメリカ,US,アメリカ,TX,テキサス州,,,,651,America/Chicago,0
 5516203,ja,NA,北アメリカ,US,アメリカ,TX,テキサス州,,,,633,America/Chicago,0
@@ -65877,6 +65896,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5534053,ja,NA,北アメリカ,US,アメリカ,TX,テキサス州,,,,633,America/Chicago,0
 5534109,ja,NA,北アメリカ,US,アメリカ,TX,テキサス州,,,,651,America/Chicago,0
 5534882,ja,NA,北アメリカ,US,アメリカ,UT,ユタ州,,,,770,America/Denver,0
+5535015,ja,NA,北アメリカ,US,アメリカ,UT,ユタ州,,,,770,America/Denver,0
 5535219,ja,NA,北アメリカ,US,アメリカ,UT,ユタ州,,,,770,America/Denver,0
 5535484,ja,NA,北アメリカ,US,アメリカ,UT,ユタ州,,,,770,America/Denver,0
 5535799,ja,NA,北アメリカ,US,アメリカ,UT,ユタ州,,,,770,America/Denver,0
@@ -67288,7 +67308,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5829425,ja,NA,北アメリカ,US,アメリカ,WY,ワイオミング州,,,,758,America/Denver,0
 5829654,ja,NA,北アメリカ,US,アメリカ,WY,ワイオミング州,,,,767,America/Denver,0
 5830007,ja,NA,北アメリカ,US,アメリカ,WY,ワイオミング州,,,,767,America/Denver,0
-5830062,ja,NA,北アメリカ,US,アメリカ,WY,ワイオミング州,,,ララミー,751,America/Denver,0
+5830062,ja,NA,北アメリカ,US,アメリカ,WY,ワイオミング州,,,ララミー,759,America/Denver,0
 5830418,ja,NA,北アメリカ,US,アメリカ,WY,ワイオミング州,,,,759,America/Denver,0
 5830444,ja,NA,北アメリカ,US,アメリカ,WY,ワイオミング州,,,,770,America/Denver,0
 5831176,ja,NA,北アメリカ,US,アメリカ,WY,ワイオミング州,,,,756,America/Denver,0
@@ -68254,7 +68274,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6050539,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6050610,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,ラヴァル,,America/Toronto,0
 6050650,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
-6050677,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6050696,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6050945,ja,NA,北アメリカ,CA,カナダ,BC,ブリティッシュコロンビア州,,,,,America/Vancouver,0
 6050948,ja,NA,北アメリカ,CA,カナダ,BC,ブリティッシュコロンビア州,,,,,America/Vancouver,0
@@ -68263,6 +68282,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6051330,ja,NA,北アメリカ,CA,カナダ,SK,サスカチュワン州,,,,,America/Regina,0
 6051562,ja,NA,北アメリカ,CA,カナダ,AB,アルバータ州,,,レドゥク,,America/Edmonton,0
 6051564,ja,NA,北アメリカ,CA,カナダ,AB,アルバータ州,,,,,America/Edmonton,0
+6051726,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6051768,ja,NA,北アメリカ,CA,カナダ,ON,オンタリオ州,,,,,America/Toronto,0
 6051792,ja,NA,北アメリカ,CA,カナダ,AB,アルバータ州,,,,,America/Edmonton,0
 6051804,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
@@ -68334,6 +68354,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6066513,ja,NA,北アメリカ,CA,カナダ,ON,オンタリオ州,,,マーカム,,America/Toronto,0
 6066594,ja,NA,北アメリカ,CA,カナダ,ON,オンタリオ州,,,,,America/Toronto,0
 6066654,ja,NA,北アメリカ,CA,カナダ,ON,オンタリオ州,,,,,America/Toronto,0
+6067033,ja,NA,北アメリカ,CA,カナダ,SK,サスカチュワン州,,,,,America/Regina,0
 6067472,ja,NA,北アメリカ,CA,カナダ,NL,ニューファンドランド・ラブラドール州,,,,,America/St_Johns,0
 6067494,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6067547,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
@@ -68656,7 +68677,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6115355,ja,NA,北アメリカ,CA,カナダ,ON,オンタリオ州,,,クインテウエスト,,America/Toronto,0
 6115383,ja,NA,北アメリカ,CA,カナダ,NB,ニューブランズウィック州,,,,,America/Moncton,0
 6115438,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
-6115622,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6115701,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6115713,ja,NA,北アメリカ,CA,カナダ,BC,ブリティッシュコロンビア州,,,,,America/Edmonton,0
 6115728,ja,NA,北アメリカ,CA,カナダ,AB,アルバータ州,,,,,America/Edmonton,0
@@ -68726,7 +68746,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6128382,ja,NA,北アメリカ,CA,カナダ,ON,オンタリオ州,,,,,America/Toronto,0
 6128577,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6128682,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
-6128697,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6128700,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6136572,ja,NA,北アメリカ,CA,カナダ,ON,オンタリオ州,,,,,America/Toronto,0
 6136576,ja,NA,北アメリカ,CA,カナダ,MB,マニトバ州,,,,,America/Winnipeg,0
@@ -68738,7 +68757,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6137202,ja,NA,北アメリカ,CA,カナダ,ON,オンタリオ州,,,,,America/Toronto,0
 6137270,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,サグネ,,America/Toronto,0
 6137327,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
-6137331,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137348,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137367,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137375,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
@@ -68749,11 +68767,9 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6137411,ja,NA,北アメリカ,CA,カナダ,NB,ニューブランズウィック州,,,,,America/Moncton,0
 6137415,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137462,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Blanc-Sablon,0
-6137479,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137489,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137509,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137518,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
-6137523,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137525,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137533,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137539,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
@@ -68770,24 +68786,22 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6137643,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137649,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137655,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
-6137657,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137677,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
+6137681,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137692,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137696,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137702,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,サンタガット・デ・モン,,America/Toronto,0
-6137719,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137733,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137740,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137749,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137753,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137764,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
-6137777,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137780,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137786,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137799,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
-6137807,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137818,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137820,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
+6137833,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137842,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137900,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6137918,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
@@ -68810,7 +68824,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6138147,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138155,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138175,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
-6138190,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138201,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138210,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138241,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
@@ -68825,7 +68838,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6138360,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138365,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138369,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
-6138370,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138374,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138380,ja,NA,北アメリカ,CA,カナダ,NB,ニューブランズウィック州,,,,,America/Moncton,0
 6138383,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
@@ -68838,7 +68850,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6138495,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138501,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138517,ja,NA,北アメリカ,CA,カナダ,NB,ニューブランズウィック州,,,セント・ジョン,,America/Moncton,0
-6138585,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138603,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138610,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138617,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
@@ -68849,7 +68860,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6138643,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138697,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138719,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
-6138727,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138728,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138763,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6138802,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
@@ -68868,7 +68878,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6139085,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6139090,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6139104,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
-6139111,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6139123,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6139154,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
 6139157,ja,NA,北アメリカ,CA,カナダ,QC,ケベック州,,,,,America/Toronto,0
@@ -69540,6 +69549,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6317156,ja,SA,南アメリカ,BR,ブラジル連邦共和国,PR,パラナ州,,,,,America/Sao_Paulo,0
 6317157,ja,SA,南アメリカ,BR,ブラジル連邦共和国,SC,サンタカタリーナ州,,,,,America/Sao_Paulo,0
 6317160,ja,SA,南アメリカ,BR,ブラジル連邦共和国,RS,リオグランデドスール州,,,,,America/Sao_Paulo,0
+6317161,ja,SA,南アメリカ,BR,ブラジル連邦共和国,RS,リオグランデドスール州,,,,,America/Sao_Paulo,0
 6317166,ja,SA,南アメリカ,BR,ブラジル連邦共和国,SC,サンタカタリーナ州,,,,,America/Sao_Paulo,0
 6317170,ja,SA,南アメリカ,BR,ブラジル連邦共和国,MG,ミナス・ジェライス州,,,,,America/Sao_Paulo,0
 6317178,ja,SA,南アメリカ,BR,ブラジル連邦共和国,MG,ミナス・ジェライス州,,,,,America/Sao_Paulo,0
@@ -69611,6 +69621,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6317595,ja,SA,南アメリカ,BR,ブラジル連邦共和国,RO,ロンドニア州,,,,,America/Porto_Velho,0
 6317600,ja,SA,南アメリカ,BR,ブラジル連邦共和国,RO,ロンドニア州,,,,,America/Porto_Velho,0
 6317616,ja,SA,南アメリカ,BR,ブラジル連邦共和国,MG,ミナス・ジェライス州,,,,,America/Sao_Paulo,0
+6317622,ja,SA,南アメリカ,BR,ブラジル連邦共和国,RS,リオグランデドスール州,,,,,America/Sao_Paulo,0
 6317631,ja,SA,南アメリカ,BR,ブラジル連邦共和国,RO,ロンドニア州,,,,,America/Porto_Velho,0
 6317638,ja,SA,南アメリカ,BR,ブラジル連邦共和国,GO,ゴイアス州,,,,,America/Sao_Paulo,0
 6317656,ja,SA,南アメリカ,BR,ブラジル連邦共和国,RS,リオグランデドスール州,,,,,America/Sao_Paulo,0
@@ -71565,6 +71576,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 7276754,ja,NA,北アメリカ,US,アメリカ,MD,メリーランド州,,,,511,America/New_York,0
 7279570,ja,AS,アジア,JP,日本,13,東京都,,,東村山市,,Asia/Tokyo,0
 7279595,ja,AS,アジア,IN,インド,MP,マディヤ・プラデーシュ州,,,,,Asia/Kolkata,0
+7279596,ja,AS,アジア,IN,インド,MH,マハーラーシュトラ州,,,,,Asia/Kolkata,0
 7279597,ja,AS,アジア,IN,インド,OD,オディシャ州,,,,,Asia/Kolkata,0
 7279599,ja,AS,アジア,IN,インド,MH,マハーラーシュトラ州,,,,,Asia/Kolkata,0
 7279600,ja,AS,アジア,IN,インド,KL,ケーララ州,,,,,Asia/Kolkata,0
@@ -71605,6 +71617,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 7284899,ja,EU,ヨーロッパ,HU,ハンガリー共和国,CS,,,,,,Europe/Budapest,1
 7284912,ja,EU,ヨーロッパ,HU,ハンガリー共和国,PE,ペシュト県,,,,,Europe/Budapest,1
 7284982,ja,NA,北アメリカ,US,アメリカ,CA,カリフォルニア州,,,,803,America/Los_Angeles,0
+7285057,ja,EU,ヨーロッパ,CH,スイス連邦,UR,ウーリ州,,,,,Europe/Zurich,0
 7285064,ja,EU,ヨーロッパ,CH,スイス連邦,SG,ザンクト・ガレン,,,,,Europe/Zurich,0
 7285071,ja,EU,ヨーロッパ,CH,スイス連邦,TG,トゥールガウ州,,,,,Europe/Zurich,0
 7285099,ja,EU,ヨーロッパ,CH,スイス連邦,AG,アールガウ州,,,,,Europe/Zurich,0
@@ -72030,7 +72043,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 7536026,ja,NA,北アメリカ,US,アメリカ,CA,カリフォルニア州,,,リオビスタ,862,America/Los_Angeles,0
 7536072,ja,EU,ヨーロッパ,PL,ポーランド共和国,02,ドルヌィ・シロンスク県,,,,,Europe/Warsaw,1
 7536073,ja,EU,ヨーロッパ,PL,ポーランド共和国,02,ドルヌィ・シロンスク県,,,,,Europe/Warsaw,1
-7536148,ja,AS,アジア,KZ,カザフスタン共和国,35,カラガンダ州,,,プリオゼルスク,,Asia/Almaty,0
 7538148,ja,SA,南アメリカ,BR,ブラジル連邦共和国,RJ,リオデジャネイロ州,,,,,America/Sao_Paulo,0
 7538520,ja,SA,南アメリカ,BR,ブラジル連邦共和国,RJ,リオデジャネイロ州,,,ロシーニャ,,America/Sao_Paulo,0
 7538668,ja,SA,南アメリカ,BR,ブラジル連邦共和国,RJ,リオデジャネイロ州,,,ガンボア,,America/Sao_Paulo,0
@@ -73315,6 +73327,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 8593835,ja,NA,北アメリカ,CA,カナダ,ON,オンタリオ州,,,,,America/Toronto,0
 8599911,ja,OC,オセアニア,AU,オーストラリア,QLD,クイーンズランド州,,,,,Australia/Brisbane,0
 8601412,ja,NA,北アメリカ,DO,ドミニカ共和国,32,サント・ドミンゴ州,,,サントドミンゴエステ,,America/Santo_Domingo,0
+8601878,ja,SA,南アメリカ,BR,ブラジル連邦共和国,AM,アマゾナス州,,,,,America/Manaus,0
 8601974,ja,SA,南アメリカ,BR,ブラジル連邦共和国,PA,パラー州,,,,,America/Belem,0
 8602081,ja,SA,南アメリカ,BR,ブラジル連邦共和国,PA,パラー州,,,,,America/Belem,0
 8602471,ja,SA,南アメリカ,BR,ブラジル連邦共和国,MA,マラニョン州,,,,,America/Fortaleza,0
@@ -73474,6 +73487,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 8740822,ja,AS,アジア,IN,インド,BR,ビハール州,,,,,Asia/Kolkata,0
 8740847,ja,EU,ヨーロッパ,ES,スペイン,AN,アンダルシア州,AL,アルメリア,,,Europe/Madrid,1
 8740944,ja,EU,ヨーロッパ,CH,スイス連邦,SG,ザンクト・ガレン,,,,,Europe/Zurich,0
+8740950,ja,EU,ヨーロッパ,CH,スイス連邦,TI,ティチーノ州,,,,,Europe/Zurich,0
 8740951,ja,EU,ヨーロッパ,CH,スイス連邦,SG,ザンクト・ガレン,,,,,Europe/Zurich,0
 8740965,ja,EU,ヨーロッパ,CH,スイス連邦,JU,ジュラ州,,,,,Europe/Zurich,0
 8741036,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,GRE,グリニッジ,チャールトン,,Europe/London,0
@@ -73690,6 +73704,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 9123624,ja,AS,アジア,JP,日本,15,新潟県,,,土樽,,Asia/Tokyo,0
 9126045,ja,AS,アジア,CN,中国,SD,山東,,,,,Asia/Shanghai,0
 9163828,ja,AS,アジア,ID,インドネシア共和国,LA,ランプン州,,,,,Asia/Jakarta,0
+9164018,ja,AS,アジア,ID,インドネシア共和国,LA,ランプン州,,,,,Asia/Jakarta,0
 9165704,ja,AS,アジア,ID,インドネシア共和国,SN,南スラウェシ,,,,,Asia/Makassar,0
 9165705,ja,AS,アジア,ID,インドネシア共和国,SG,南東スラウェシ州,,,,,Asia/Makassar,0
 9165762,ja,EU,ヨーロッパ,NO,ノルウェー王国,01,エストフォル県,,,,,Europe/Oslo,0
@@ -74952,7 +74967,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 11550114,ja,EU,ヨーロッパ,SE,スウェーデン王国,O,ヴェストラ・イェータランド県,,,,,Europe/Stockholm,1
 11550115,ja,NA,北アメリカ,CA,カナダ,BC,ブリティッシュコロンビア州,,,,,America/Vancouver,0
 11550605,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,HAM,ハンプシャー州,,,Europe/London,0
-11550609,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,HRT,ハートフォードシャー,,,Europe/London,0
 11550750,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,BNH,,,,Europe/London,0
 11550772,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,NWM,,,,Europe/London,0
 11550776,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,LND,,,,Europe/London,0
@@ -74962,6 +74976,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 11550993,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,NET,ニューカッスル・アポン・タイン,,,Europe/London,0
 11551003,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,SND,,,,Europe/London,0
 11551009,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,OLD,,,,Europe/London,0
+11551012,ja,EU,ヨーロッパ,GB,英国,SCT,スコットランド,RFW,レンフルーシャー,,,Europe/London,0
 11551029,ja,EU,ヨーロッパ,GB,英国,SCT,スコットランド,HLD,ハイランド,,,Europe/London,0
 11551039,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,GRE,グリニッジ,,,Europe/London,0
 11551053,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,RIC,,,,Europe/London,0
@@ -74984,7 +74999,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 11561908,ja,NA,北アメリカ,MX,メキシコ合衆国,CMX,メキシコシティ,,,,,America/Mexico_City,0
 11562004,ja,NA,北アメリカ,MX,メキシコ合衆国,CMX,メキシコシティ,,,,,America/Mexico_City,0
 11562011,ja,NA,北アメリカ,MX,メキシコ合衆国,CMX,メキシコシティ,,,,,America/Mexico_City,0
-11562028,ja,NA,北アメリカ,MX,メキシコ合衆国,CMX,メキシコシティ,,,,,America/Mexico_City,0
 11562075,ja,NA,北アメリカ,MX,メキシコ合衆国,CMX,メキシコシティ,,,,,America/Mexico_City,0
 11562166,ja,NA,北アメリカ,MX,メキシコ合衆国,CMX,メキシコシティ,,,,,America/Mexico_City,0
 11562167,ja,NA,北アメリカ,MX,メキシコ合衆国,CMX,メキシコシティ,,,,,America/Mexico_City,0
@@ -76245,6 +76259,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 12359313,ja,AS,アジア,CN,中国,GS,甘粛,,,,,Asia/Shanghai,0
 12359321,ja,AF,アフリカ,NG,ナイジェリア連邦共和国,LA,ラゴス州,,,,,Africa/Lagos,0
 12365181,ja,NA,北アメリカ,CR,コスタリカ,SJ,,,,,,America/Costa_Rica,0
+12366353,ja,NA,北アメリカ,CR,コスタリカ,A,アラフエラ州,,,,,America/Costa_Rica,0
 12369318,ja,NA,北アメリカ,CR,コスタリカ,SJ,,,,,,America/Costa_Rica,0
 12377073,ja,SA,南アメリカ,BR,ブラジル連邦共和国,SP,サンパウロ州,,,,,America/Sao_Paulo,0
 12377076,ja,SA,南アメリカ,BR,ブラジル連邦共和国,SP,サンパウロ州,,,,,America/Sao_Paulo,0
@@ -76262,9 +76277,9 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 12390366,ja,NA,北アメリカ,CR,コスタリカ,L,リモン州,,,,,America/Costa_Rica,0
 12420882,ja,OC,オセアニア,AU,オーストラリア,SA,南オーストラリア州,,,,,Australia/Adelaide,0
 12421076,ja,AS,アジア,CN,中国,HL,黒龍江省,,,,,Asia/Shanghai,0
-12421796,ja,SA,南アメリカ,CO,コロンビア共和国,NSA,ノルテ・デ・サンタンデール県,,,,,America/Bogota,0
 12426431,ja,SA,南アメリカ,BR,ブラジル連邦共和国,SP,サンパウロ州,,,,,America/Sao_Paulo,0
 12432866,ja,SA,南アメリカ,BR,ブラジル連邦共和国,DF,連邦直轄区,,,,,America/Sao_Paulo,0
+12432973,ja,SA,南アメリカ,BR,ブラジル連邦共和国,DF,連邦直轄区,,,,,America/Sao_Paulo,0
 12432977,ja,SA,南アメリカ,BR,ブラジル連邦共和国,DF,連邦直轄区,,,,,America/Sao_Paulo,0
 12432978,ja,SA,南アメリカ,BR,ブラジル連邦共和国,DF,連邦直轄区,,,,,America/Sao_Paulo,0
 12432982,ja,SA,南アメリカ,BR,ブラジル連邦共和国,DF,連邦直轄区,,,,,America/Sao_Paulo,0
@@ -76468,6 +76483,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 13002308,ja,SA,南アメリカ,BR,ブラジル連邦共和国,MG,ミナス・ジェライス州,,,,,America/Sao_Paulo,0
 13003874,ja,SA,南アメリカ,BR,ブラジル連邦共和国,SP,サンパウロ州,,,,,America/Sao_Paulo,0
 13004502,ja,SA,南アメリカ,BR,ブラジル連邦共和国,RJ,リオデジャネイロ州,,,,,America/Sao_Paulo,0
+13005172,ja,SA,南アメリカ,BR,ブラジル連邦共和国,RJ,リオデジャネイロ州,,,,,America/Sao_Paulo,0
 13005495,ja,SA,南アメリカ,BR,ブラジル連邦共和国,SP,サンパウロ州,,,,,America/Sao_Paulo,0
 13005706,ja,SA,南アメリカ,BR,ブラジル連邦共和国,MG,ミナス・ジェライス州,,,,,America/Sao_Paulo,0
 13006766,ja,SA,南アメリカ,BR,ブラジル連邦共和国,RJ,リオデジャネイロ州,,,,,America/Sao_Paulo,0
@@ -76556,6 +76572,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 13202056,ja,EU,ヨーロッパ,FI,フィンランド共和国,13,北カルヤラ県,,,,,Europe/Helsinki,1
 13216709,ja,AS,アジア,KR,大韓民国,28,仁川,,,,,Asia/Seoul,0
 13234126,ja,EU,ヨーロッパ,DE,ドイツ連邦共和国,SH,シュレースヴィヒ＝ホルシュタイン州,,,,,Europe/Berlin,1
+13239520,ja,SA,南アメリカ,PE,ペルー共和国,CAJ,カハマルカ県,,,,,America/Lima,0
 13264606,ja,EU,ヨーロッパ,PL,ポーランド共和国,08,ルブシュ県,,,,,Europe/Warsaw,1
 13264792,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,SOM,サマセット州,,,Europe/London,0
 13264800,ja,EU,ヨーロッパ,GB,英国,ENG,イングランド,KEN,ケント,,,Europe/London,0
@@ -76745,6 +76762,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 13430949,ja,AS,アジア,JP,日本,14,神奈川県,,,本町,,Asia/Tokyo,0
 13431362,ja,AS,アジア,JP,日本,14,神奈川県,,,栄町,,Asia/Tokyo,0
 13435074,ja,AS,アジア,IN,インド,BR,ビハール州,,,,,Asia/Kolkata,0
+13435618,ja,NA,北アメリカ,MX,メキシコ合衆国,MEX,メヒコ州,,,,,America/Mexico_City,0
 13437730,ja,NA,北アメリカ,MX,メキシコ合衆国,MEX,メヒコ州,,,,,America/Mexico_City,0
 13437934,ja,NA,北アメリカ,MX,メキシコ合衆国,CMX,メキシコシティ,,,,,America/Mexico_City,0
 13437951,ja,NA,北アメリカ,MX,メキシコ合衆国,CMX,メキシコシティ,,,,,America/Mexico_City,0
@@ -76822,4 +76840,5 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 13665002,ja,EU,ヨーロッパ,UA,ウクライナ共和国,46,リヴィウ州,,,,,Europe/Kyiv,0
 13680023,ja,AS,アジア,VN,ベトナム,HN,ハノイ,,,,,Asia/Bangkok,0
 13680579,ja,EU,ヨーロッパ,SE,スウェーデン王国,AB,ストックホルム県,,,,,Europe/Stockholm,1
+13696610,ja,AS,アジア,IL,イスラエル国,M,中央地区,,,,,Asia/Jerusalem,0
 13697149,ja,AS,アジア,TR,トルコ共和国,76,ウードゥル県,,,,,Europe/Istanbul,0
