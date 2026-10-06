@@ -1,5 +1,5 @@
 fuzzer,domain,dns_a,dns_aaaa,dns_mx,dns_ns
-*original,sncf-connect.com,75.2.83.188,,,blue.foundationdns.com
+*original,sncf-connect.com,75.2.83.188,,inbound-smtp.eu-west-3.amazonaws.com,blue.foundationdns.com
 addition,sncf-connect0.com,,,,
 addition,sncf-connect1.com,,,,
 addition,sncf-connect2.com,,,,
