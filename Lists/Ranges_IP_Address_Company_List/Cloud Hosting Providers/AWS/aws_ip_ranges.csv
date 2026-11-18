@@ -2337,6 +2337,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 16.12.81.0/24,ap-southeast-6,AMAZON,ap-southeast-6
 16.15.100.0/22,us-east-1,AMAZON,us-east-1
 18.208.0.0/13,us-east-1,AMAZON,us-east-1
+40.163.4.0/24,us-east-1,AMAZON,us-east-1
 52.93.126.131/32,ap-southeast-2,AMAZON,ap-southeast-2
 52.95.245.0/24,us-east-1,AMAZON,us-east-1
 54.240.242.0/24,us-west-1,AMAZON,us-west-1
@@ -4696,7 +4697,6 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 54.198.0.0/16,us-east-1,AMAZON,us-east-1
 64.66.146.0/24,ap-southeast-2,AMAZON,ap-southeast-2
 64.252.77.0/24,us-east-2,AMAZON,us-east-2
-72.150.21.0/24,GLOBAL,AMAZON,GLOBAL
 150.222.36.192/26,us-west-1,AMAZON,us-west-1
 150.222.52.128/27,ca-west-1,AMAZON,ca-west-1
 15.164.0.0/15,ap-northeast-2,AMAZON,ap-northeast-2
@@ -7662,6 +7662,7 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 15.220.227.0/24,ap-south-1,EC2,ap-south-1-del-2
 16.15.100.0/22,us-east-1,EC2,us-east-1
 18.208.0.0/13,us-east-1,EC2,us-east-1
+40.163.4.0/24,us-east-1,EC2,us-east-1
 52.95.245.0/24,us-east-1,EC2,us-east-1
 99.77.142.0/24,ap-east-1,EC2,ap-east-1
 99.77.187.0/24,us-east-1,EC2,us-east-1
@@ -8467,7 +8468,6 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 54.198.0.0/16,us-east-1,EC2,us-east-1
 64.66.146.0/24,ap-southeast-2,EC2,ap-southeast-2
 64.252.77.0/24,us-east-2,EC2,us-east-2
-72.150.21.0/24,GLOBAL,EC2,GLOBAL
 99.77.55.56/32,eu-south-2,EC2,eu-south-2
 15.164.0.0/15,ap-northeast-2,EC2,ap-northeast-2
 16.15.160.0/22,us-east-1,EC2,us-east-1
@@ -9220,6 +9220,9 @@ dest_ip,metadata_region,metadata_service,metadata_network_border_group
 130.176.80.0/22,GLOBAL,CLOUDFRONT_ORIGIN_FACING,GLOBAL
 54.182.128.0/20,GLOBAL,CLOUDFRONT_ORIGIN_FACING,GLOBAL
 130.176.72.0/22,GLOBAL,CLOUDFRONT_ORIGIN_FACING,GLOBAL
+51.72.40.128/28,eusc-de-east-1,CLOUDFRONT_ORIGIN_FACING,eusc-de-east-1
+51.72.40.144/28,eusc-de-east-1,CLOUDFRONT_ORIGIN_FACING,eusc-de-east-1
+51.72.96.0/23,eusc-de-east-1,CLOUDFRONT_ORIGIN_FACING,eusc-de-east-1
 13.124.199.0/24,ap-northeast-2,CLOUDFRONT_ORIGIN_FACING,ap-northeast-2
 3.29.57.0/26,me-central-1,CLOUDFRONT_ORIGIN_FACING,me-central-1
 35.55.0.0/17,GLOBAL,IVS_LOW_LATENCY,GLOBAL
