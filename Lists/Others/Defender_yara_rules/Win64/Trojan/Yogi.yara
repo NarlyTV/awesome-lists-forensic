@@ -621,3 +621,49 @@ rule Trojan_Win64_Yogi_SX_2147982104_0
         (all of ($x*))
 }
 
+rule Trojan_Win64_Yogi_DS_2147982301_0
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:Win64/Yogi.DS!MTB"
+        threat_id = "2147982301"
+        type = "Trojan"
+        platform = "Win64: Windows 64-bit platform"
+        family = "Yogi"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "1"
+        strings_accuracy = "Low"
+    strings:
+        $x_1_1 = {0f b6 14 01 31 ca 88 14 08 48 ff c1 48 83 f9 ?? 7c}  //weight: 1, accuracy: Low
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
+rule Trojan_Win64_Yogi_2147982333_0
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Trojan:Win64/Yogi!atmn"
+        threat_id = "2147982333"
+        type = "Trojan"
+        platform = "Win64: Windows 64-bit platform"
+        family = "Yogi"
+        severity = "Critical"
+        info = "atmn: an internal category used to refer to some threats"
+        signature_type = "SIGNATURE_TYPE_PEHSTR"
+        threshold = "12"
+        strings_accuracy = "High"
+    strings:
+        $x_3_1 = "HostsProtectorService" ascii //weight: 3
+        $x_2_2 = "ProtectAndLock" ascii //weight: 2
+        $x_2_3 = "ApplyHardenedAcl" ascii //weight: 2
+        $x_2_4 = "ApplyBrowserPolicies" ascii //weight: 2
+        $x_3_5 = "109.120.137.118 steamcommunity.com" wide //weight: 3
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
